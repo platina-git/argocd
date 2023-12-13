@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: rkdxogh90/myweb:12
+        image: rkdxogh90/myweb:13
         ports:
         - containerPort: 8080
